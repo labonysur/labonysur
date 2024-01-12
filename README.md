@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @labonysur
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C & C++
 - 📫  reach me ..labonysur5@gmail.com
 
 <!---
